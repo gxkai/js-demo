@@ -1,0 +1,12 @@
+version: 0.0.2
+files:
+  - url: electron-vue-0.0.1-mac.zip
+    sha512: exRn9CJas3eMgFjMb/3C8MUvJjYMg9htvpH+iH+nKAhMTi19/raPcK4bN/ll4YEgvJTiMTgCNgXCAmrbaIcUOw==
+    size: 63889350
+    blockMapSize: 68314
+  - url: electron-vue-0.0.1.dmg
+    sha512: G1CCU60Zn4a9ExV7XDushaSdPRTn9jmZSEkPUlPA93AQY0eoeYxDMo7DJRPF8KGaNo7nPGKI/wbdKWE+0M1X7g==
+    size: 66292192
+path: electron-vue-0.0.1-mac.zip
+sha512: exRn9CJas3eMgFjMb/3C8MUvJjYMg9htvpH+iH+nKAhMTi19/raPcK4bN/ll4YEgvJTiMTgCNgXCAmrbaIcUOw==
+releaseDate: '2019-08-10T06:58:24.116Z'
