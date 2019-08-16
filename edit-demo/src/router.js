@@ -9,7 +9,7 @@ export default new Router({
         {
             path: '/',
             name: 'edit',
-            component: () => import('./views/Edit.vue')
+            component: () => import('./views/AceEdit.vue')
         },
         {
             path: '/home',
